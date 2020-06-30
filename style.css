@@ -1,0 +1,15 @@
+main {
+background-color: white;
+}
+#set {
+    font-size: 13px;
+    font-family: arial,sans-serif;
+    text-align: right;
+    color: #222;
+    text-decoration: none;
+    
+}
+a {
+    color: #222; 
+    text-decoration: none;
+}
